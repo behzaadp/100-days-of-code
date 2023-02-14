@@ -13,3 +13,10 @@
 **Thoughts:** I honestly feel the progress is quite slow, but I am slowing getting the hang to divide each step into smaller steps or each problem into smaller problems so that I don't overwhelm myself. I think working on one step at a time, rather than rushing to complete it is a better way.
 
 **Link to work:** [Bollywood Game](https://github.com/behzaadp/Bollywood-Game)
+
+### Day 2: February 13, 2023
+**Today's Progress**: created functions for the game's logic with the help of the flowchart created before
+
+**Thoughts:** Today, i encountered a few bugs and it was fun to solve them in the beginning, but by the end of today's session I was kinda annoyed by my last mistake(it was so silly ;-;) but I would say it was a constructive period
+
+**Link to work:** [Bollywood Game](https://github.com/behzaadp/Bollywood-Game)
